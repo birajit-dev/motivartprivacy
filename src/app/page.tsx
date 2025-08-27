@@ -10,7 +10,7 @@ export default function Home() {
             for Motivart
           </p>
           <p className="text-sm text-gray-500 dark:text-gray-400 mt-2">
-            Last Updated: [Insert Date]
+            Last Updated: [25.08.2025]
           </p>
         </div>
 
