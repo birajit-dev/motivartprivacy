@@ -39,10 +39,10 @@ export default function Home() {
                   </p>
                   <ul className="list-disc ml-6 space-y-2">
                     <li className="text-gray-700 dark:text-gray-300">
-                      The App may request access to your device's camera to allow you to take photos and upload them along with your quotes.
+                      The App may request access to your device&rsquo;s camera to allow you to take photos and upload them along with your quotes.
                     </li>
                     <li className="text-gray-700 dark:text-gray-300">
-                      The App may request access to your device's gallery so that you can select and upload images for your quotes.
+                      The App may request access to your device&rsquo;s gallery so that you can select and upload images for your quotes.
                     </li>
                     <li className="text-gray-700 dark:text-gray-300">
                       These images remain on your device unless you choose to upload them.
