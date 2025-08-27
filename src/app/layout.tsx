@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PocketList Privacy Policy",
-  description: "Privacy Policy for PocketList",
+  title: "Privacy Policy",
+  description: "Privacy Policy for Motivart",
 };
 
 export default function RootLayout({
